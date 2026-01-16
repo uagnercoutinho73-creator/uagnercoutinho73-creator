@@ -26,7 +26,7 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1B5E20?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="uagnersousac@gmail.com">
+  <a href="_uagnersousac@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-C62828?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
