@@ -23,33 +23,37 @@
   <a href="https://www.instagram.com/uagnerhenriq._/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-2E7D32?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1B5E20?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://github.com/uagnercoutinho73-creator" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-1B5E20?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="mailto:uagnersousac@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-C62828?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
+---
+
 ### 🎯 Objetivo
 
-Busco oportunidade de estágio ou primeiro contato profissional
+Busco oportunidade de estágio ou primeiro contato profissional  
 na área de desenvolvimento web, onde eu possa aprender e evoluir.
+
+---
 
 ### 📚 Atualmente estudando
 
-- Lógica de programação
-- HTML semântico
-- CSS (Flexbox e Grid)
-- JavaScript básico
-- 
-- ### 🚀 Projetos
+- Lógica de programação  
+- HTML semântico  
+- CSS (Flexbox e Grid)  
+- JavaScript básico  
+
+---
+
+### 🚀 Projetos
 
 - 🔐 Formulário de Login e Cadastro  
 - 🎨 Landing Page responsiva  
-- 🧮 Calculadora em JavaScript
-
-
+- 🧮 Calculadora em JavaScript  
 
 ---
 
