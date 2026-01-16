@@ -31,6 +31,26 @@
   </a>
 </div>
 
+### 🎯 Objetivo
+
+Busco oportunidade de estágio ou primeiro contato profissional
+na área de desenvolvimento web, onde eu possa aprender e evoluir.
+
+### 📚 Atualmente estudando
+
+- Lógica de programação
+- HTML semântico
+- CSS (Flexbox e Grid)
+- JavaScript básico
+- 
+- ### 🚀 Projetos
+
+- 🔐 Formulário de Login e Cadastro  
+- 🎨 Landing Page responsiva  
+- 🧮 Calculadora em JavaScript
+
+
+
 ---
 
 ✨ _Este perfil é dedicado ao meu aprendizado, projetos e evolução na programação._
